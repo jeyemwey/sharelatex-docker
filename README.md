@@ -6,6 +6,6 @@
 2. Start the assembly with Docker-Compose. It will try to bind `http/80`.
 
 ```shell
-sudo docker build -t jannik/sharelatex .
+sudo docker build -t my/sharelatex .
 sudo docker-compose up -d
 ```
